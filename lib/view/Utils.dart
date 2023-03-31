@@ -1,0 +1,10 @@
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_screenutil/flutter_screenutil.dart';
+var kblackcolor=TextStyle(color: Colors.black);
+var kwhitecolor=TextStyle(color:Colors.white);
+const kbgcolor=Color(0xfff5f4f1);
+var kprimarycolor=Colors.blue;
+var kmax=SizedBox(height: 10.h);
+var kmin=SizedBox(height: 5.h,);
+var kmoremax= SizedBox(height: 20.h,);
